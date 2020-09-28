@@ -7,3 +7,4 @@ for a in range(1,101):
         continue
     else :
         print(a)
+print(haha)
